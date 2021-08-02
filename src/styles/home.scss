@@ -1,0 +1,19 @@
+.Container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20vh;
+
+  .Card {
+    background: #fefefe;
+    border-radius: 8px;
+    margin-top: 3vh;
+    box-shadow: 0 2px rgba(0, 0, 0, 0.04);
+    padding: 24px;
+    width: 40vh;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}

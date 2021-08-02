@@ -1,0 +1,18 @@
+.Container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 10vh;
+
+  .Card-Register {
+    background: #fefefe;
+    border-radius: 8px;
+    margin-top: 3vh;
+    box-shadow: 0 2px rgba(0, 0, 0, 0.04);
+    padding: 24px;
+    width: 90vh;
+    height: 57vh;
+    align-items: center;
+    justify-content: center;
+  }
+}
